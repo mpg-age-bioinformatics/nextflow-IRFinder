@@ -1,0 +1,19 @@
+{
+    "homefolder": "", 
+    "wget" : "NONE",
+    "small_intron_calc" : "YES",
+    "kallisto_raw_data" : "",
+    "project_folder" : "/nexus/posix0/MAGE-flaski/service/posit/home/aiqbal/nf-irf-dev/",
+    "fastqc_raw_data" : "/nexus/posix0/MAGE-flaski/service/posit/home/aiqbal/nf-irf-dev/raw_data",
+    "IRquant_raw_data" : "/nexus/posix0/MAGE-flaski/service/posit/home/aiqbal/nf-irf-dev/raw_data",
+    "genomes" : "/nexus/posix0/MAGE-flaski/service/genomes/IRFinder/",
+    "organism" : "caenorhabditis_elegans",
+    "release" : "110",
+    "url_gtf" : "ftp://ftp.ensembl.org/pub/release-110/gtf/caenorhabditis_elegans/",
+    "url_dna" : "ftp://ftp.ensembl.org/pub/release-110/fasta/caenorhabditis_elegans/dna/",
+    "scripts" : "/nexus/posix0/MAGE-flaski/service/posit/home/aiqbal/nextflow-IRFinder/",
+    "read1_sufix" : ".READ_1.fastq.gz",
+    "fastqc_output" : "fastqc_output",
+    "mapping_output" : "",
+    "featurecounts" : ""
+}
